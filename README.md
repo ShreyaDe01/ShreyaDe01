@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @ShreyaDe01
-- 👀 I’m interested in Data Structures and Algorithm, Web Development
-- 🌱 I’m currently pursuing B.Tech(Information Technology) from IGDTUW
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shreya De.
+- 🎓 I am currently pursuing Bachelors' degree Information Technology from Indira Gandhi Delhi Technical University for Women.
+- 🌱 I am currently studying Data Structures and Algorithms in Java.
+- 👀 I am interested in Web Development.
+- 📫 How to reach me 
+			
+
 
 <!---
 ShreyaDe01/ShreyaDe01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
