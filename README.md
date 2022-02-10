@@ -5,6 +5,7 @@
 - 📫 How to reach me 
 			
 
+[![HitCount](http://hits.dwyl.io/ShreyaDe01/badges.svg)](http://hits.dwyl.io/ShreyaDe01/badges) 
 
 <!---
 ShreyaDe01/ShreyaDe01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
