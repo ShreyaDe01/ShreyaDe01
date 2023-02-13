@@ -4,7 +4,7 @@
 
 - 👀 I am interested in **Web Development**
 
-- 🌱 I’m currently learning **the MERN Stack**
+- 🌱 I’m currently learning **React Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
