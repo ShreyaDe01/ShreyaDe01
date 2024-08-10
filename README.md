@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreya De</h1>
 
-- 🎓 I am currently pursuing **Bachelors' degree** in **Information Technology** from **Indira Gandhi Delhi Technical University for Women**
+- 🎓 I am completed my **Bachelors' degree** in **Information Technology** from **Indira Gandhi Delhi Technical University for Women**
 
-- 👀 I am interested in **Web Development**
+- 👀 I am interested in **Web Development**, **Computer Vision**, and **LLMs**.
 
 - 🌱 I’m currently learning **React Framework**
 
