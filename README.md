@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shreya De</h1>
 
-- 🎓 I am completed my **Bachelors' degree** in **Information Technology** from **Indira Gandhi Delhi Technical University for Women**
+- 💻 I am a **Software Engineer** in **Microsoft**
+
+- 🎓 I completed my **Bachelors' degree** in **Information Technology** from **Indira Gandhi Delhi Technical University for Women**
 
 - 👀 I am interested in **Web Development**, **Computer Vision**, and **LLMs**.
-
-- 🌱 I’m currently learning **React Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
